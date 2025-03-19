@@ -14,6 +14,40 @@
     src: url('Shine in Valentine.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Poppins';
+    src: url('https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJLucHtF.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('https://fonts.gstatic.com/s/caveat/v16/Wnz6HAc5bAfYB2Q7mSDp4C0X.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Stalemate';
+    src: url('https://fonts.gstatic.com/s/stalemate/v17/taiJGmd_EZvybMGt6CUgbVpJ.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb_rj3ij__anPXDTz4zA.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 :root {
     --bg-color: #080808;
     --second-bg-color: #131313;
@@ -51,10 +85,10 @@ body{
     font-weight: 500;
     cursor: pointer;
     transition: 0.3s ease;
-    font-family: 'ShineInValentine';
+    font-family: 'Playfair Display';
 
     span{
-        font-family: 'ShineInValentine';
+        font-family: 'Roboto';
     }
  
 }
@@ -938,3 +972,6 @@ input ,textarea{
    }
 
 }
+
+
+

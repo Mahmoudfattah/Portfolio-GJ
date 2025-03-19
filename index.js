@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // إرسال البريد الإلكتروني باستخدام EmailJS
         emailjs.send("service_zutgw6w", "template_rpazx2j", params, "kxl8b3nfodisnnP4k") // هنا نضيف Public Key
             .then(function(response) {
-                showToast("✅ تم إرسال الرسالة بنجاح!", "success");
+                showToast("✅ Message Sent Successfully!", "success");
                 console.log("Success!", response.status, response.text);
                 document.getElementById("contactForm").reset();
             }, function(error) {
