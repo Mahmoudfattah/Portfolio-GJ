@@ -266,11 +266,11 @@ box-shadow:  0 0 25px transparent;
 @keyframes words{
     0%,
     20%{
-        content: 'UI / UX Designer';
+        content: 'React Developer';
     }
     21%,
     40%{
-        content: 'Frontend Designer';
+        content: 'Frontend Engineer';
     }
     41%,
     60%{
@@ -282,7 +282,7 @@ box-shadow:  0 0 25px transparent;
     }
     81%,
     100%{
-        content: 'Web Developer'
+        content: 'Software Engineer'
     }
 }
 @keyframes typing{
