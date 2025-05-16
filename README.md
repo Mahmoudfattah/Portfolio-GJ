@@ -19,9 +19,7 @@ To run this project locally, follow these steps:
 
 Clone the repository
 
-bash
-نسخ
-تحرير
+
 git clone https://github.com/Mahmoudfattah/portfolio.git
 cd portfolio
 Open the project
