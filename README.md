@@ -17,7 +17,8 @@ Email.js (for handling contact form submissions)
 
 
 Live Demo
-You can check the live demo here.
+You can check the live demo here
+https://mahmoudfattah.github.io/Portfolio-GJ/
 
 Author
 Mahmoud Fattah
