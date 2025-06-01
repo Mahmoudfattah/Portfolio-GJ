@@ -1003,3 +1003,18 @@ input ,textarea{
 .cursor-pointer{
    cursor :pointer
 }
+
+
+/* .image-projects{
+
+    width: 100%;
+    height: auto;
+} */
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+
+}
