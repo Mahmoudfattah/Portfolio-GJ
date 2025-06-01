@@ -20,7 +20,12 @@ Live Demo
 You can check the live demo here
 https://mahmoudfattah.github.io/Portfolio-GJ/
 
-Author
-Mahmoud Fattah
+---
+
+📌 **Disclaimer**  
+This project is part of my personal portfolio.  
+Do not copy, clone, or reuse without permission.  
+© Mahmoud Fattah – All rights reserved.
+
 
 
